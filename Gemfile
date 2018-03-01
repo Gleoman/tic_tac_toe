@@ -7,5 +7,7 @@ gem "rubocop"
 gem 'pry'
 gem 'rake'
 gem 'rspec'
-gem 'simplecov', require: false
-gem 'simplecov-console', require: false
+gem 'sinatra'
+gem 'capybara'
+gem 'simplecov'
+gem 'simplecov-console'
